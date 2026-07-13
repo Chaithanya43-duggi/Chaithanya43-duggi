@@ -1,7 +1,7 @@
 # 💫ABOUT ME
 
 
-## 🌐 Socials:.
+## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitud43@gmail.com) 
 
 # 💻 Tech Stack:
