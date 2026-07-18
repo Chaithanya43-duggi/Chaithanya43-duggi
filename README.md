@@ -50,7 +50,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chaithanya43-duggi&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1"/>
+  <img src="https://github-trophies.vercel.app/?username=Chaithanya43-duggi&theme=darkhub&no-frame=true&margin-w=8&row=1"/>
 </p>
 
 ## 🐍 Contribution Snake
